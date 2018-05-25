@@ -1,4 +1,4 @@
-# Monya Address page
+# Ripple Error Reproduction
 
 ## how to use
 
@@ -9,4 +9,4 @@ webpack
 
 ## License
 
-GNU GPL v3
+MIT
